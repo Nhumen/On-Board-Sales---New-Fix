@@ -1,0 +1,6 @@
+framework module Pods_On_Board_Sales___New_Fix {
+  umbrella header "Pods-On Board Sales - New Fix-umbrella.h"
+
+  export *
+  module * { export * }
+}
